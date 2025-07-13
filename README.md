@@ -1,4 +1,4 @@
-- Hi, I’m @Intergalacticc
+- Hi, I’m Raven
 - I’m currently learning C#, Java, Python, SQL
 - I’m looking to collaborate on a website or an application.
 - You can reach me through my gmail: bautistajohnraven@gmail.com or my mobile number: 09811640367
